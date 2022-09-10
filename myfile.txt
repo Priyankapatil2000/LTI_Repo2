@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 myfile
+=======
+This is my file inside main.
+>>>>>>> main 
+Merge 
